@@ -1,0 +1,2029 @@
+{
+'question_text': 'Tortuga',
+ 'answer_text': 'Tortuga\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>亀</rb><rt>かめ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'かめ\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Atado</span> + 2&nbsp;× Sol + <span style="color: rgb(170,
+ 0,
+ 0);">Anzuelo</span>\n\n<hr>\n\nLa tortuga está apretujada entre dos caparazones,
+ escondida de los anzuelos.\n\n<hr>\n\n<a href="https://jisho.org/search/亀">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='かめ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+  \n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+ }
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>亀</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'かめ\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>亀</rb><rt>かめ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'かめ\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nTortuga\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Atado</span> + 2&nbsp;× Sol + <span style="color: rgb(170,
+ 0,
+ 0);">Anzuelo</span>\n\n<hr>\n\nLa tortuga está apretujada entre dos caparazones,
+ escondida de los anzuelos.\n\n<hr>\n\n<a href="https://jisho.org/search/亀">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='かめ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='かめ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': "<div>The front of this card is blank.<br><a href='https://anki.tenderapp.com/kb/card-appearance/the-front-of-this-card-is-blank'>More information</a></div>",
+ 'answer_text': "<div>The front of this card is blank.<br><a href='https://anki.tenderapp.com/kb/card-appearance/the-front-of-this-card-is-blank'>More information</a></div>",
+ 'question_av_tags': [],
+ 'answer_av_tags': [],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">亠</span></div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">亠</span>\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">亠</span></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">亠</span>\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Radical: Tapa de pota.<br>Como componente: chistera.</span>\n\n<hr>\n\n<a href="https://jisho.org/search/亠">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='亠',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='亠',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Contraste social/asociación',
+ 'answer_text': 'Contraste social/asociación\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>交</rb><rt>こう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'こう\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Chistera</span> + Padre\n\n<hr>\n\nGran contraste social dependiendo del dinero de tu padre,
+ si lleva chistera o no.<br><span style="color: rgb(170,
+ 0,
+ 0);">Como componente: Entremezclar.</span>\n\n<hr>\n\n<a href="https://jisho.org/search/交">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='こう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>交</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'こう\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>交</rb><rt>こう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'こう\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nContraste social/asociación\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Chistera</span> + Padre\n\n<hr>\n\nGran contraste social dependiendo del dinero de tu padre,
+ si lleva chistera o no.<br><span style="color: rgb(170,
+ 0,
+ 0);">Como componente: Entremezclar.</span>\n\n<hr>\n\n<a href="https://jisho.org/search/交">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='こう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='こう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Capital',
+ 'answer_text': 'Capital\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>京</rb><rt>きょう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'きょう\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Tapa de pota</span> + Boca + Pequeño\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/京">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='きょう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>京</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'きょう\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>京</rb><rt>きょう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'きょう\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nCapital\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Tapa de pota</span> + Boca + Pequeño\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/京">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='きょう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='きょう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Persona',
+ 'answer_text': 'Persona\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>人</rb><rt>ひと</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひと\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nLas piernas y tronco de una persona.\n\n<hr>\n\n<a href="https://jisho.org/search/人">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='ひと',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>人</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひと\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>人</rb><rt>ひと</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひと\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nPersona\n\n<hr>\n\n\n\n<hr>\n\nLas piernas y tronco de una persona.\n\n<hr>\n\n<a href="https://jisho.org/search/人">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='ひと',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='ひと',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Vitrina',
+ 'answer_text': 'Vitrina\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'>冋</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'冋\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/冋">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='冋',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>冋</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'冋\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>冋</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'冋\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nVitrina\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/冋">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='冋',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='冋',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Cuchara',
+ 'answer_text': 'Cuchara\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>匕</rb><rt>さじ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さじ\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nAgarrando un cucharón.\n\n<hr>\n\n<a href="https://jisho.org/search/匕">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='さじ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>匕</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さじ\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>匕</rb><rt>さじ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さじ\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nCuchara\n\n<hr>\n\n\n\n<hr>\n\nAgarrando un cucharón.\n\n<hr>\n\n<a href="https://jisho.org/search/匕">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='さじ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='さじ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Caballo (zodiaco)',
+ 'answer_text': 'Caballo (zodiaco)\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>午</rb><rt>うま</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うま\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nVaca aplastada,
+ sin el cuerno.\n\n<hr>\n\n<a href="https://jisho.org/search/午">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='うま',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>午</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うま\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>午</rb><rt>うま</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うま\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nCaballo (zodiaco)\n\n<hr>\n\n\n\n<hr>\n\nVaca aplastada,
+ sin el cuerno.\n\n<hr>\n\n<a href="https://jisho.org/search/午">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='うま',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='うま',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<span style="color: rgb(170,
+ 0,
+ 0);">A cuadros</span>',
+ 'answer_text': '<span style="color: rgb(170,
+ 0,
+ 0);">A cuadros</span>\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">又</span></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">又</span>\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nIndependiente: oración.\n\n<hr>\n\n<a href="https://jisho.org/search/又">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='又',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">又</span></div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">又</span>\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">又</span></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">又</span>\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">A cuadros</span>\n\n<hr>\n\n\n\n<hr>\n\nIndependiente: oración.\n\n<hr>\n\n<a href="https://jisho.org/search/又">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='又',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='又',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Grande',
+ 'answer_text': 'Grande\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>大</rb><rt>だい</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'だい\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nUna persona con los brazos estirados para parecer más grande.\n\n<hr>\n\n<a href="https://jisho.org/search/大">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='だい',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>大</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'だい\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>大</rb><rt>だい</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'だい\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nGrande\n\n<hr>\n\n\n\n<hr>\n\nUna persona con los brazos estirados para parecer más grande.\n\n<hr>\n\n<a href="https://jisho.org/search/大">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='だい',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='だい',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Cielo (metafísico)',
+ 'answer_text': 'Cielo (metafísico)\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>天</rb><rt>てん</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'てん\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Techo</span> + Grande\n\n<hr>\n\nLos más grandes ascienden.\n\n<hr>\n\n<a href="https://jisho.org/search/天">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='てん',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>天</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'てん\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>天</rb><rt>てん</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'てん\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nCielo (metafísico)\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Techo</span> + Grande\n\n<hr>\n\nLos más grandes ascienden.\n\n<hr>\n\n<a href="https://jisho.org/search/天">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='てん',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='てん',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Mujer',
+ 'answer_text': 'Mujer\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>女</rb><rt>おんな</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'おんな\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/女">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='おんな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>女</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'おんな\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>女</rb><rt>おんな</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'おんな\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nMujer\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/女">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='おんな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='おんな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Ruidoso',
+ 'answer_text': 'Ruidoso\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>姦</rb><rt>かしま.しい</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'かしま.しい\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n3&nbsp;× Mujer\n\n<hr>\n\n<a href="https://youtu.be/wjsZbnTNB8c?feature=shared">¯\\_(ツ)_/¯&nbsp;</a>\n\n<hr>\n\n<a href="https://jisho.org/search/姦">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='かしま.しい',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>姦</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'かしま.しい\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>姦</rb><rt>かしま.しい</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'かしま.しい\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nRuidoso\n\n<hr>\n\n3&nbsp;× Mujer\n\n<hr>\n\n<a href="https://youtu.be/wjsZbnTNB8c?feature=shared">¯\\_(ツ)_/¯&nbsp;</a>\n\n<hr>\n\n<a href="https://jisho.org/search/姦">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='かしま.しい',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='かしま.しい',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Pequeño',
+ 'answer_text': 'Pequeño\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>小</rb><rt>しょう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'しょう\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/小">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='しょう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>小</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'しょう\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>小</rb><rt>しょう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'しょう\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nPequeño\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/小">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='しょう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='しょう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Poco',
+ 'answer_text': 'Poco\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>少</rb><rt>すく.ない</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'すく.ない\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nPequeño + (katakana)\n\n<hr>\n\nIntento escribir en pequeño,
+ pero se me va un poco la mano.\n\n<hr>\n\n<a href="https://jisho.org/search/少">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='すく.ない',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>少</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'すく.ない\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>少</rb><rt>すく.ない</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'すく.ない\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nPoco\n\n<hr>\n\nPequeño + (katakana)\n\n<hr>\n\nIntento escribir en pequeño,
+ pero se me va un poco la mano.\n\n<hr>\n\n<a href="https://jisho.org/search/少">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='すく.ない',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='すく.ない',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Puente',
+ 'answer_text': 'Puente\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>橋</rb><rt>はし</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'はし\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nÁrbol + <span style="color: rgb(170,
+ 0,
+ 0);">Ángel</span>\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/橋">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='はし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>橋</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'はし\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>橋</rb><rt>はし</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'はし\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nPuente\n\n<hr>\n\nÁrbol + <span style="color: rgb(170,
+ 0,
+ 0);">Ángel</span>\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/橋">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='はし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='はし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Fuego',
+ 'answer_text': 'Fuego\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>火</rb><rt>ひ</rt></ruby><br>灬</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひ<br>灬\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nUna hogera chisporreteando.<br>Forma alternativa: un hornillo.\n\n<hr>\n\n<a href="https://jisho.org/search/火灬">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='ひ 灬',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>火<br>灬</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひ<br>灬\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>火</rb><rt>ひ</rt></ruby><br>灬</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひ<br>灬\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nFuego\n\n<hr>\n\n\n\n<hr>\n\nUna hogera chisporreteando.<br>Forma alternativa: un hornillo.\n\n<hr>\n\n<a href="https://jisho.org/search/火灬">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='ひ 灬',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='ひ 灬',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Padre',
+ 'answer_text': 'Padre\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>父</rb><rt>ちち</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ちち\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/父">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='ちち',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>父</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ちち\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>父</rb><rt>ちち</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ちち\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nPadre\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/父">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='ちち',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='ちち',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Vaca',
+ 'answer_text': 'Vaca\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>牛</rb><rt>うし</rt></ruby><br>牜</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うし<br>牜\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nLe sale un cuerno.\n\n<hr>\n\n<a href="https://jisho.org/search/牛牜">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='うし 牜',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>牛<br>牜</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うし<br>牜\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>牛</rb><rt>うし</rt></ruby><br>牜</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うし<br>牜\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nVaca\n\n<hr>\n\n\n\n<hr>\n\nLe sale un cuerno.\n\n<hr>\n\n<a href="https://jisho.org/search/牛牜">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='うし 牜',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='うし 牜',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Perro',
+ 'answer_text': 'Perro\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>犬</rb><rt>いぬ</rt></ruby><br>犭</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'いぬ<br>犭\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nGrande + Gota\n\n<hr>\n\nSon grandes personas que se baban.<br><span style="color: rgb(170,
+ 0,
+ 0);">Como componente (犭): jauría.</span>\n\n<hr>\n\n<a href="https://jisho.org/search/犬犭">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='いぬ 犭',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>犬<br>犭</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'いぬ<br>犭\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>犬</rb><rt>いぬ</rt></ruby><br>犭</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'いぬ<br>犭\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nPerro\n\n<hr>\n\nGrande + Gota\n\n<hr>\n\nSon grandes personas que se baban.<br><span style="color: rgb(170,
+ 0,
+ 0);">Como componente (犭): jauría.</span>\n\n<hr>\n\n<a href="https://jisho.org/search/犬犭">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='いぬ 犭',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='いぬ 犭',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Gato',
+ 'answer_text': 'Gato\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>猫</rb><rt>ねこ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ねこ\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Jauría de perros</span> + Sembrar\n\n<hr>\n\nLa mejor forma de acabar con el gato es sembrándolo con perros.\n\n<hr>\n\n<a href="https://jisho.org/search/猫">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='ねこ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>猫</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ねこ\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>猫</rb><rt>ねこ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ねこ\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nGato\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Jauría de perros</span> + Sembrar\n\n<hr>\n\nLa mejor forma de acabar con el gato es sembrándolo con perros.\n\n<hr>\n\n<a href="https://jisho.org/search/猫">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='ねこ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='ねこ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Rey',
+ 'answer_text': 'Rey\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>王</rb><rt>おう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'おう\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nCetro apoyado en el suelo.\n\n<hr>\n\n<a href="https://jisho.org/search/王">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='おう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>王</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'おう\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>王</rb><rt>おう</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'おう\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nRey\n\n<hr>\n\n\n\n<hr>\n\nCetro apoyado en el suelo.\n\n<hr>\n\n<a href="https://jisho.org/search/王">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='おう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='おう',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Roca',
+ 'answer_text': 'Roca\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>石</rb><rt>いし</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'いし\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/石">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='いし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>石</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'いし\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>石</rb><rt>いし</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'いし\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nRoca\n\n<hr>\n\n\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/石">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='いし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='いし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Arena',
+ 'answer_text': 'Arena\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>砂</rb><rt>すな</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'すな\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nRoca +&nbsp;Poco\n\n<hr>\n\nLa mejor arena es la que tiene pocas rocas.\n\n<hr>\n\n<a href="https://jisho.org/search/砂">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='すな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>砂</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'すな\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>砂</rb><rt>すな</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'すな\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nArena\n\n<hr>\n\nRoca +&nbsp;Poco\n\n<hr>\n\nLa mejor arena es la que tiene pocas rocas.\n\n<hr>\n\n<a href="https://jisho.org/search/砂">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='すな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='すな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Oveja',
+ 'answer_text': 'Oveja\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>羊</rb><rt>ひつじ</rt></ruby><br>⺶</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひつじ<br>⺶\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nDe la oveja lo que no se aprovecha son los cuernos y la cola. El resto se le da al rey.\n\n<hr>\n\n<a href="https://jisho.org/search/羊⺶">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='ひつじ ⺶',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>羊<br>⺶</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひつじ<br>⺶\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>羊</rb><rt>ひつじ</rt></ruby><br>⺶</div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ひつじ<br>⺶\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nOveja\n\n<hr>\n\n\n\n<hr>\n\nDe la oveja lo que no se aprovecha son los cuernos y la cola. El resto se le da al rey.\n\n<hr>\n\n<a href="https://jisho.org/search/羊⺶">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='ひつじ ⺶',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='ひつじ ⺶',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<span style="color: rgb(170,
+ 0,
+ 0);">Flor</span>',
+ 'answer_text': '<span style="color: rgb(170,
+ 0,
+ 0);">Flor</span>\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">艹</span></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">艹</span>\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nIndependiente: hierba.\n\n<hr>\n\n<a href="https://jisho.org/search/艹">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='艹',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">艹</span></div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">艹</span>\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><span style="color: rgb(170,
+ 0,
+ 0);">艹</span></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'<span style="color: rgb(170,
+ 0,
+ 0);">艹</span>\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Flor</span>\n\n<hr>\n\n\n\n<hr>\n\nIndependiente: hierba.\n\n<hr>\n\n<a href="https://jisho.org/search/艹">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='艹',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='艹',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Sembrar',
+ 'answer_text': 'Sembrar\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>苗</rb><rt>なえ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'なえ\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Flor</span> + Campo de arroz\n\n<hr>\n\nSembrar un campo de flores.\n\n<hr>\n\n<a href="https://jisho.org/search/苗">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='なえ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>苗</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'なえ\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>苗</rb><rt>なえ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'なえ\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nSembrar\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Flor</span> + Campo de arroz\n\n<hr>\n\nSembrar un campo de flores.\n\n<hr>\n\n<a href="https://jisho.org/search/苗">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='なえ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='なえ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Insecto',
+ 'answer_text': 'Insecto\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>虫</rb><rt>むし</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'むし\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nDentro + Suelo + Gota\n\n<hr>\n\nLos que son como gotas y están "dentro" del suelo por todas partes.\n\n<hr>\n\n<a href="https://jisho.org/search/虫">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='むし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>虫</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'むし\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>虫</rb><rt>むし</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'むし\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nInsecto\n\n<hr>\n\nDentro + Suelo + Gota\n\n<hr>\n\nLos que son como gotas y están "dentro" del suelo por todas partes.\n\n<hr>\n\n<a href="https://jisho.org/search/虫">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='むし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='むし',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Mosquito',
+ 'answer_text': 'Mosquito\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>蚊</rb><rt>か</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'か\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nInsecto + <span style="color: rgb(170,
+ 0,
+ 0);">A cuadros</span>\n\n<hr>\n\nEl insecto que te pica y te deja a cuadros.\n\n<hr>\n\n<a href="https://jisho.org/search/蚊">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='か',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>蚊</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'か\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>蚊</rb><rt>か</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'か\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nMosquito\n\n<hr>\n\nInsecto + <span style="color: rgb(170,
+ 0,
+ 0);">A cuadros</span>\n\n<hr>\n\nEl insecto que te pica y te deja a cuadros.\n\n<hr>\n\n<a href="https://jisho.org/search/蚊">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='か',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='か',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Serpiente',
+ 'answer_text': 'Serpiente\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>蛇</rb><rt>へび</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'へび\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nInsecto + Techo + Cuchara\n\n<hr>\n\nEn las casas de Australia tienen serpientes como mascota,
+ con lenguas como cucharas.\n\n<hr>\n\n<a href="https://jisho.org/search/蛇">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='へび',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>蛇</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'へび\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>蛇</rb><rt>へび</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'へび\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nSerpiente\n\n<hr>\n\nInsecto + Techo + Cuchara\n\n<hr>\n\nEn las casas de Australia tienen serpientes como mascota,
+ con lenguas como cucharas.\n\n<hr>\n\n<a href="https://jisho.org/search/蛇">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='へび',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='へび',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Luciérnaga',
+ 'answer_text': 'Luciérnaga\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>蛍</rb><rt>ほたる</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ほたる\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Techo de escuela</span> + Insecto\n\n<hr>\n\nEl insecto con más luces en la escuela.\n\n<hr>\n\n<a href="https://jisho.org/search/蛍">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='ほたる',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>蛍</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ほたる\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>蛍</rb><rt>ほたる</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'ほたる\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nLuciérnaga\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Techo de escuela</span> + Insecto\n\n<hr>\n\nEl insecto con más luces en la escuela.\n\n<hr>\n\n<a href="https://jisho.org/search/蛍">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='ほたる',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='ほたる',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Caballo (animal)',
+ 'answer_text': 'Caballo (animal)\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>馬</rb><rt>うま</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うま\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n\n\n<hr>\n\nCrines al viento como si fuesen fuego.\n\n<hr>\n\n<a href="https://jisho.org/search/馬">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='うま',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>馬</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うま\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>馬</rb><rt>うま</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'うま\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nCaballo (animal)\n\n<hr>\n\n\n\n<hr>\n\nCrines al viento como si fuesen fuego.\n\n<hr>\n\n<a href="https://jisho.org/search/馬">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='うま',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='うま',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Pez',
+ 'answer_text': 'Pez\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>魚</rb><rt>さかな</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さかな\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Atado</span> + Campo de arroz + Fuego\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/魚">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='さかな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>魚</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さかな\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>魚</rb><rt>さかな</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さかな\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nPez\n\n<hr>\n\n<span style="color: rgb(170,
+ 0,
+ 0);">Atado</span> + Campo de arroz + Fuego\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/魚">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='さかな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='さかな',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Tiburón',
+ 'answer_text': 'Tiburón\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>鮫</rb><rt>さめ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さめ\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nPez + Contraste social\n\n<hr>\n\nHay contraste de poder importante entre un tiburón y otros peces.\n\n<hr>\n\n<a href="https://jisho.org/search/鮫">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='さめ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>鮫</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さめ\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>鮫</rb><rt>さめ</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'さめ\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nTiburón\n\n<hr>\n\nPez + Contraste social\n\n<hr>\n\nHay contraste de poder importante entre un tiburón y otros peces.\n\n<hr>\n\n<a href="https://jisho.org/search/鮫">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='さめ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='さめ',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': 'Ballena',
+ 'answer_text': 'Ballena\n\n<hr id=answer>\n\n<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>鯨</rb><rt>くじら</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'くじら\');"\n>\n  Play TTS\n</button>\n\n<hr>\n\nPez + Capital\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/鯨">Buscar en Jisho</a>',
+ 'question_av_tags': [],
+ 'answer_av_tags': [TTSTag(field_text='くじら',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+{
+'question_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'>鯨</div></tts>\n\n<span class="ankitts">[anki:play:q:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'くじら\');"\n>\n  Play TTS\n</button>',
+ 'answer_text': '<tts service="android" voice="ja_JP"><div class=\'kanji\'><ruby><rb>鯨</rb><rt>くじら</rt></ruby></div></tts>\n\n<span class="ankitts">[anki:play:a:0]</span>\n\n<button\n  class="ankidroidTtsButton"\n  onclick="\nAnkiDroidJS.ankiTtsSpeak(\'くじら\');"\n>\n  Play TTS\n</button>\n\n<hr id=answer>\n\nBallena\n\n<hr>\n\nPez + Capital\n\n<hr>\n\n\n\n<hr>\n\n<a href="https://jisho.org/search/鯨">Buscar en Jisho</a>',
+ 'question_av_tags': [TTSTag(field_text='くじら',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'answer_av_tags': [TTSTag(field_text='くじら',
+ lang='ja_JP',
+ voices=['Apple_Otoya',
+ 'Microsoft_Haruka'],
+ speed=1.0,
+ other_args=[])],
+ 'css': ".card {
+\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n
+}
+\n\n.kanji {
+\n    font-size: 100px;\n
+}
+\n\n/*Anki (desktop) TTS needs to be hidden because AnkiDroid currently renders it as text instead of a play button like desktop.*/\n.android .ankitts {
+\n  display: none;\n
+}
+\n\n/*The AnkiDroid tts button won't work on other platforms because it uses the JS API,
+ therefore it should be hidden*/\nhtml:not(.android) .ankidroidTtsButton {
+\n  display: none;\n
+}
+\n"
+}
+
