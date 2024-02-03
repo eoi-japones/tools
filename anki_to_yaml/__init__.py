@@ -58,7 +58,7 @@ def onPrint() -> None:
         data_splitted = card.answer_text.split("<hr>")
         if(len(data_splitted) > 2):
             data["historia"] = data_splitted[2].strip()
-            data["componentes"] = data_splitted[1].strip()
+            data["componentes"] = data_splitted[1].strip().split(" + ") if len(data_splitted[1]) else []
             data["como_componente"] = "[]"
         else:
             data["historia"] = ""
@@ -77,15 +77,15 @@ def onPrint() -> None:
                 QStandardPaths.writableLocation(
                     QStandardPaths.StandardLocation.DesktopLocation
                 ),
-                "kanjis"
+                "kanjis_{0}".format(mw.col.decks.selected())
             )
             if not os.path.exists(folder_path):
                 os.mkdir(folder_path)
 
-            path = os.path.join(
-                folder_path, "{0}.yml".format(normalized_card_name)
-            )
             card_data = get_card_data(card)
+            path = os.path.join(folder_path, "{0}.yml".format(
+                normalized_card_name
+            ))
             buf = open(path, "w+", encoding="utf8")
             buf.write(
 """id: {0}
