@@ -1,0 +1,32 @@
+id: span_stylecolor_rgb170_0_0florspan
+clave: an style="color: rgb(170, 0, 0);">Flor</span>
+
+<hr id=answer>
+
+<tts service="android" voice="ja_JP"><div class='kanji'><span style="color: rgb(170, 0, 0);">艹</span></div></tts>
+
+<span class="ankitts">[anki:play:a:0]</span>
+
+<button
+  class="ankidroidTtsButton"
+  onclick="
+AnkiDroidJS.ankiTtsSpeak('<span style="color: rgb(170, 0, 0);">艹</span>');"
+>
+  Play TTS
+</button>
+
+<hr>
+
+
+
+<hr>
+
+Independiente: hierba.
+
+<hr>
+
+<a href="https://jisho.org/search/艹">Buscar en Jisho</a
+historia: >
+    Independiente: hierba.
+componentes: 
+como_componente: []
