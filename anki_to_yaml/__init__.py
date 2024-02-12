@@ -51,9 +51,31 @@ def onPrint() -> None:
     def get_card_data(card) -> Dictionary:
         data = {}
 
-        data["clave"] = card.answer_text[
-            card.answer_text.find("<rb>") + 4:card.answer_text.find("</rb>")
+        data["id"] = card.answer_text[
+            card.answer_text.find("<rb>") + len("<rb>"):card.answer_text.find("</rb>")
         ]
+        if len(data["id"]) > 1:
+            KANJI_DIV_START = "<div class='kanji'>"
+            data["id"] = card.answer_text[
+                card.answer_text.find(KANJI_DIV_START) + len(KANJI_DIV_START):
+                card.answer_text.find("</div>")
+            ]
+            if len(data["id"]) > 1:
+                KANJI_SPAN_START = '<span style="color: rgb(170, 0, 0);">'
+                data["id"] = card.answer_text[
+                    card.answer_text.find(KANJI_SPAN_START) + len(KANJI_SPAN_START):
+                    card.answer_text.find("</span>")
+                ]
+                if len(data["id"]) > 1:
+                    starting_position_span_start = card.answer_text.find(KANJI_SPAN_START) + len(KANJI_SPAN_START)
+                    starting_position_span_end = card.answer_text.find("</span>", starting_position_span_start) + len("</span>")
+                    data["clave"] = normalize_str(data["id"])
+                    data["id"] = card.answer_text[
+                        card.answer_text.find(
+                            KANJI_SPAN_START, starting_position_span_start
+                        ) + len(KANJI_SPAN_START) :
+                        card.answer_text.find("</span>", starting_position_span_end)
+                    ]
 
         data_splitted = card.answer_text.split("<hr>")
         if(len(data_splitted) > 2):
@@ -83,8 +105,10 @@ def onPrint() -> None:
                 os.mkdir(folder_path)
 
             card_data = get_card_data(card)
-            path = os.path.join(folder_path, "{0}.yml".format(
-                normalized_card_name
+            if not card_data.get("clave", False):
+                card_data["clave"] = normalized_card_name
+            path = os.path.join(folder_path, "{0},{1}.yml".format(
+                card_data["id"], card_data["clave"]
             ))
             buf = open(path, "w+", encoding="utf8")
             buf.write(
@@ -94,7 +118,7 @@ historia: >
     {2}
 componentes: {3}
 como_componente: {4}""".format(
-    normalized_card_name,
+    card_data["id"],
     card_data["clave"],
     card_data["historia"],
     card_data["componentes"],
