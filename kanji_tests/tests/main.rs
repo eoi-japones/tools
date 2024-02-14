@@ -5,12 +5,12 @@ mod tests {
         let fixtures_path =
             std::fs::canonicalize(std::path::PathBuf::from("tests/fixtures/kanjis"));
         let result: Vec<kanji_tests::Kanji> =
-            kanji_tests::get_character_list(&fixtures_path.unwrap());
+            kanji_tests::get_character_list(&fixtures_path.unwrap(), false);
 
         assert_eq!(result.len(), 3);
-        assert_eq!(result[0].clave, "hoja");
-        assert_eq!(result[1].clave, "alforfón");
-        assert_eq!(result[2].clave, "desteñido");
+        assert_eq!(result[0].clave.clone().unwrap(), "hoja");
+        assert_eq!(result[1].clave.clone().unwrap(), "alforfón");
+        assert_eq!(result[2].clave.clone().unwrap(), "desteñido");
     }
 
     #[test]
@@ -19,24 +19,24 @@ mod tests {
         let input: Vec<kanji_tests::Kanji> = vec![
             kanji_tests::Kanji {
                 id: String::from("kanji_a"),
-                clave: String::from("kanji_a_clave"),
-                historia: String::from("kanji_a_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_a_clave")),
+                historia: Some(String::from("kanji_a_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
             kanji_tests::Kanji {
                 id: String::from("kanji_b"),
-                clave: String::from("kanji_b_clave"),
-                historia: String::from("kanji_b_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_b_clave")),
+                historia: Some(String::from("kanji_b_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
             kanji_tests::Kanji {
                 id: String::from("kanji_c"),
-                clave: String::from("kanji_c_clave"),
-                historia: String::from("kanji_c_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_c_clave")),
+                historia: Some(String::from("kanji_c_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
         ];
 
@@ -49,38 +49,38 @@ mod tests {
         let input: Vec<kanji_tests::Kanji> = vec![
             kanji_tests::Kanji {
                 id: String::from("kanji_a"),
-                clave: String::from("kanji_a_clave"),
-                historia: String::from("kanji_a_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_a_clave")),
+                historia: Some(String::from("kanji_a_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
             kanji_tests::Kanji {
                 id: String::from("kanji_b"),
-                clave: String::from("kanji_b_clave"),
-                historia: String::from("kanji_b_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_b_clave")),
+                historia: Some(String::from("kanji_b_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
             kanji_tests::Kanji {
                 id: String::from("kanji_c"),
-                clave: String::from("kanji_c_clave"),
-                historia: String::from("kanji_c_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_c_clave")),
+                historia: Some(String::from("kanji_c_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
             kanji_tests::Kanji {
                 id: String::from("kanji_d"),
-                clave: String::from("kanji_d_clave"),
-                historia: String::from("kanji_d_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_d_clave")),
+                historia: Some(String::from("kanji_d_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
             kanji_tests::Kanji {
                 id: String::from("kanji_e"),
-                clave: String::from("kanji_e_clave"),
-                historia: String::from("kanji_e_historia"),
-                componentes: Vec::new(),
-                como_componente: Vec::new(),
+                clave: Some(String::from("kanji_e_clave")),
+                historia: Some(String::from("kanji_e_historia")),
+                componentes: Some(Vec::new()),
+                como_componente: Some(Vec::new()),
             },
         ];
 
