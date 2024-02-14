@@ -1,0 +1,17 @@
+name: Create kanji test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create_test:
+    name: Create kanji test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions-rs/toolchain@v1
+        with:
+          profile: minimal
+          toolchain: stable
+          override: true
+      - run: cargo run "./data" >> kanji_test.csv
