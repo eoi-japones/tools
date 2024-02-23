@@ -27,7 +27,8 @@ jobs:
           override: true
 
       - name: Create test
-        run: cargo run -n ${{ github.event.inputs.n_of_kanjis }} -o ${{ github.event.inputs.output_format }} "./data" >> kanji_test.csv
+        run: |
+          cargo run -n ${{ github.event.inputs.n_of_kanjis }} -o ${{ github.event.inputs.output_format }} "./data" >> kanji_test.csv
 
       - name: Save to repo 
         run: |
