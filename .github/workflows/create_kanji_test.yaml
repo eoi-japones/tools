@@ -1,0 +1,41 @@
+name: Create kanji test
+
+on:
+  workflow_dispatch:
+    inputs:
+      n_of_kanjis:
+        description: "Número de kanjis"
+        required: true
+        default: 250
+      output_format:
+        description: "Formato de salida"
+        required: true
+        default: "csv"
+
+jobs:
+  create_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Rust setup
+        uses: actions-rs/toolchain@v1
+        with:
+          profile: minimal
+          toolchain: stable
+          override: true
+
+      - name: Create test
+        run: cargo run -n ${{ github.event.inputs.n_of_kanjis }} -o ${{ github.event.inputs.output_format }} "./data" >> kanji_test.csv
+
+      - name: Save to repo 
+        run: |
+          git config --global user.name "Kanji tests"
+          git config --global user.email "tests@users.noreply.github.com"
+          git add kanji_test.csv
+          git commit -m "Kanji test created"
+          git push
+
+
+

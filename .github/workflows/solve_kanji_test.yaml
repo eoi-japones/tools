@@ -1,0 +1,33 @@
+name: Solve kanji test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  solve_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Rust setup
+        uses: actions-rs/toolchain@v1
+        with:
+          profile: minimal
+          toolchain: stable
+          override: true
+
+      - name: Solve test
+        run: cargo run -r kanji_test.csv "./data" >> kanji_test_solution.csv
+
+      - name: Save to repo 
+        run: |
+          git config --global user.name "Kanji tests"
+          git config --global user.email "tests@users.noreply.github.com"
+          git add kanji_test_solution.csv
+          git commit -m "Kanji test solution created"
+          git push
+
+
+
+
