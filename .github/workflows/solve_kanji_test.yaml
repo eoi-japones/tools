@@ -7,8 +7,13 @@ jobs:
   solve_test:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout tools repo
         uses: actions/checkout@v4
+
+      - name: Checkout kanjis repo
+        uses: actions/checkout@v4
+        with:
+          repository: eoi-japones/kanji-data
 
       - name: Rust setup
         uses: actions-rs/toolchain@v1
@@ -18,7 +23,7 @@ jobs:
           override: true
 
       - name: Solve test
-        run: cargo run -r kanji_test.csv "./data" >> kanji_test_solution.csv
+        run: cargo run -- -r kanji_test.csv "./kanji-data/data" >> kanji_test_solution.csv
 
       - name: Save to repo 
         run: |
