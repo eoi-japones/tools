@@ -34,7 +34,7 @@ jobs:
 
       - name: Create test
         run: |
-          cd kanji_tests && cargo run -- -n ${{ github.event.inputs.n_of_kanjis }} -o ${{ github.event.inputs.output_format }} "../kanji-data/data" >> kanji_test.csv
+          cd tools/kanji_tests && cargo run -- -n ${{ github.event.inputs.n_of_kanjis }} -o ${{ github.event.inputs.output_format }} "../../kanji-data/data" >> kanji_test.csv
 
       - name: Save to repo 
         run: |
