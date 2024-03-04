@@ -19,14 +19,14 @@ jobs:
       - name: Checkout tools repo
         uses: actions/checkout@v4
         with:
-          repository: eoi-japones/tools
-          ref: main
+          path: tools
 
       - name: Checkout kanjis repo
         uses: actions/checkout@v4
         with:
           repository: eoi-japones/kanji-data
           ref: main
+          path: kanji-data
 
       - name: Rust setup
         uses: actions-rs/toolchain@v1
