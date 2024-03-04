@@ -46,9 +46,10 @@ jobs:
           cd tools
           git config --global user.name "Kanji tests"
           git config --global user.email "tests@users.noreply.github.com"
+          git checkout -b kanji-test
           git add kanji_test.csv
           git commit -m "Kanji test created"
-          git push
+          git push origin kanji-test
 
 
 
