@@ -43,3 +43,5 @@ jobs:
 
       - name: Create PR
         uses: peter-evans/create-pull-request@v6
+        with:
+          path: tools
