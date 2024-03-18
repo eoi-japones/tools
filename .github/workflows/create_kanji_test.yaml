@@ -37,8 +37,9 @@ jobs:
 
       - name: Create test
         run: |
-          ls -lha
-          cd tools/kanji_tests && cargo run -- -n ${{ github.event.inputs.n_of_kanjis }} -o ${{ github.event.inputs.output_format }} "../../kanji-data/data" >> kanji_test.csv
+          cd tools/kanji_tests
+          cargo run -- -n ${{ github.event.inputs.n_of_kanjis }} -o ${{ github.event.inputs.output_format }} "../../kanji-data/data" >> ../kanji_test.csv
+          cat ../kanji_test.csv
 
       - name: Create PR
         uses: peter-evans/create-pull-request@v6
